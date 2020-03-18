@@ -9,15 +9,11 @@ markdown: kramdown
 #Links that will appear in the navbar
 primarylinks:
  - title: Blog
-   url: http://automateddeveloper.blogspot.com/
+   url: https://somethings-about-ai.blogspot.com/
  - title: GitHub
-   url: https://github.com/robhinds
- - title: StackOverflow
-   url: http://stackoverflow.com/users/258813/rhinds
- - title: DZone
-   url: https://dzone.com/users/899489/rhinds.html
+   url: https://github.com/adsharanya
  - title: LinkedIn
-   url: https://www.linkedin.com/pub/rob-hinds/21/361/3b1
+   url: https://www.linkedin.com/in/sharanyaarcotdesai/
 
 #Any buzzword skills you want to include
 skills:
